@@ -135,8 +135,8 @@ A project portfolio presenting work across computer vision, robotics, 3D reconst
 
 My current work focuses on evaluating and improving perception data for autonomous and embodied systems. This includes questions such as:
 
-- How can synthetic multiview video be evaluated beyond visual realism?
-- How can temporal, semantic, and geometric consistency be measured?
+- How can synthetic multiview video be evaluated for specific use cases?
+- How can degradation in certain aspects of video consistency be measured?
 - How can multimodal sensing improve robustness when one modality becomes unreliable?
 - How can perception systems communicate uncertainty to downstream planning and control?
 
