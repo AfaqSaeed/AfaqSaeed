@@ -45,7 +45,7 @@ I have worked on semantic segmentation, stereo vision, structure from motion, Li
 
 ## Selected Highlights
 
-- Contributed to computer-vision systems used across approximately **5,000 km of road inspection**
+- Contributed to computer-vision systems used across kms of road inspection
 - Helped reduce manual road-inspection review by up to **90%**
 - Developed perception methods reaching approximately **80–85% IoU** where applicable
 - Built a LiDAR dynamic-object-removal evaluation pipeline running at approximately **51 ms per scan**
